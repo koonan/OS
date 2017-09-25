@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd Lab2_35
+cd User
+make
+
+

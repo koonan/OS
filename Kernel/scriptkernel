@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cd Lab2_35
+cd Kernel
+make
+sudo rmmod KernelSpace
+sudo insmod KernelSpace.ko
+

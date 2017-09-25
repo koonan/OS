@@ -1,0 +1,10 @@
+ls           -a
+who
+history
+ls
+hs=istory
+ls
+ps
+history
+pwd
+history

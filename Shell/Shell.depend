@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1476642879 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year/Operating-Systemes/Projects/Shell/main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<errno.h>
+
